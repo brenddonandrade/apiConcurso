@@ -1,3 +1,4 @@
+
 # API de Concursos Abertos no Brasil
 
 Este projeto é uma API desenvolvida para filtrar e listar concursos abertos no Brasil, permitindo que usuários busquem informações por diversos critérios, como estado, cargo e salário.
@@ -31,4 +32,6 @@ Antes de começar, verifique se você tem os seguintes pré-requisitos instalado
    ```bash
    git clone https://github.com/seu_usuario/concursos-api.git
    cd concursos-api
+   ```
 
+2. Instale as dependências necessár
